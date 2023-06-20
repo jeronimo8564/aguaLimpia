@@ -1,0 +1,420 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+    font-size: 1.4rem;
+}
+
+body{
+    background-color: #4b4949;
+    position: relative;
+    min-height: 100vh;
+    min-width: 100vh;
+    padding-bottom: 2em;
+}
+
+header{
+    background-color:#5386E4 ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 2rem;
+    padding: 5px 2%;
+    color: #201F1F;
+
+}
+
+.link{
+    list-style: none;
+    display: inline-block;
+    padding: 0 20px;
+
+
+}
+
+a{
+    text-decoration: none;
+    color: #201F1F ;
+}
+
+a:hover{
+    color: aliceblue;
+}
+
+footer{
+    background-color:#5386E4 ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #201F1F;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 0.2em 0;
+}
+
+h1{
+    padding: 2%;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 50vh;
+    padding: 1vh;
+    padding-left: 5vh;
+    
+}
+
+main{
+    color: aliceblue;
+    padding: 2% 2%;
+}
+
+h2{
+    padding: 2%;
+}
+
+.donaciones{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 16vh;
+    padding-left: 15vh;
+    padding-right: 15vh;
+}
+
+.num{
+    font-size: 3rem;
+}
+
+button{
+    background-color: #5386E4;
+    border: none;
+    color: aliceblue;
+    padding: 5%;
+    text-decoration: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #2e61be;
+}
+
+form{
+    padding: 5%;
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+    font-size: 1.4rem;
+}
+.body{  
+    background-color: #4b4949;
+    position: relative;
+    min-height: 100vh;
+    min-width: 100vh;
+    padding-bottom: 2em;
+    
+}
+.ul li{
+    color: whitesmoke;
+}
+li{
+ 
+    border-radius: 3px;
+    border-color: #1C1D1B;
+    padding: 2px;  
+    p
+}
+
+h1{
+    padding: 2%;
+}
+
+
+button{
+    background-color: #5386E4;
+    border: none;
+    color: aliceblue;
+    padding: 5%;
+    text-decoration: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #2e61be;
+}
+
+form{
+    padding: 5%;
+}
+header {
+    background-color:#5386E4 ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 2rem;
+    padding: 5px 2%;
+    color: #201F1F;
+}
+main{
+    color: aliceblue;
+    background-color: #4b4949;
+}
+.boton{
+width: 69px;
+height: 30px;
+left: 510px;
+top: 15px;
+margin: 5vw;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+display: flex;
+align-items: center;
+}
+
+.article{
+position: absolute;
+width: 78vw;
+height: 60vh;
+left: 0%;
+top: 20vh;
+font-size: 3em;
+color: #1C1D1B;
+margin-left: 3%;
+
+}
+.h1{
+    color:#002B4E;
+
+}
+
+.Texto1{
+    color:#FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer{
+
+    background-color:#5386E4 ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #201F1F;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 0.2em 0;
+}
+
+
+.h1P{
+    position: relative;
+    margin-top: 25vh;
+    left: 43vw;
+    top: 0vh;
+    bottom: 0vh;
+    color: #002B4E;
+    font-size: 3em;
+}
+
+
+.Aproyecto{
+    position: relative;
+    display: flex;
+    justify-content: space-evenly;
+    top: 28vh;
+    font-size: 1.5em;
+    color: #002B4E;
+}
+
+.Tproyecto{
+position: relative;
+width: 10vw;
+height: 20vh;
+font-size: 0.9em;
+color: #1C1D1B;
+margin-bottom: 1vh;
+}
+
+
+.h1S{
+position: relative;
+width: f;
+height: 10vh;
+left: 15vw;
+top: 0vh;
+color: #002B4E;
+
+}
+
+
+.Article2{
+position: relative;
+left: 28vw;
+top: 20vh;
+width: 50vw;
+height: 50vh;
+font-size: 3em;
+}
+
+.link{
+    list-style: none;
+    display: inline-block;
+    padding: 0 20px;
+
+
+}
+
+a{
+    text-decoration: none;
+    color: #201F1F ;
+}
+
+a:hover{
+    color: aliceblue;
+}
+.ul1{
+    margin-top: 25vh;
+}
+
+img{
+    max-width: 30vh;
+    
+}
+
+
+li{
+    display: inline-block;
+    margin-bottom: 0;
+    margin: 0vh 5vh 0vh 10vh;
+    padding: 0;
+}
+
+li p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+li a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #201F1F;
+}
+
+li a:hover{
+    color:aliceblue;
+}
+
+label{
+    display:none;
+}
+nav input{
+    display: none;
+}
+.label{display: block;}
+.input{display: block;}
+div li{
+    margin-left: 30vh;
+}
+
+@media ( max-width: 768px ){
+    
+
+    body{
+        max-width: 50%;
+        position: relative;
+
+    }
+
+.nombre{
+    display: none;
+}
+ .nav-bar{
+     height: 4rem;
+ }
+
+    img1{
+     margin-top: 15px;
+     position: relative;
+     display:block;
+     justify-content:center;
+     align-items:center;
+     right: 8% ;
+    }
+
+    input:checked  ~ ul{   
+     display:block;
+       }
+   
+       input:checked ~ label {    label 
+       background: #4b4949; 
+           }
+   
+       label:hover{               
+       background: grey;
+       }
+   
+     li{                         
+          margin: 0px;
+          text-align: left;}
+ 
+    label {                      
+     display: block;
+     border: 1px solid #8da724;
+     justify-content: left;
+     border-radius: 5px;
+     width: 30px;
+     height: 30px;
+     line-height: 30px;
+     font-weight: bold;
+     text-align: center;
+     user-select: none;
+     background-color: #4b4949;
+
+      }
+      ul li a{
+         text-decoration: none;
+         font-size: 1rem;
+         color: black;
+         background-color:#4b4949;
+       }
+       ul li a:hover{
+         color: #5386E4;
+       }
+ 
+ul{                          
+ display: none;
+ background-color:#4b4949;;
+
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    max-width:50%;}
+
+}   
+
+img{
+    display: none;
+}
