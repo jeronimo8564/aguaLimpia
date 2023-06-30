@@ -297,10 +297,29 @@ a:hover{
 
 img{
     max-width: 30vh;
+    min-width: 50vh;
+    border-radius: 15%;
     
 }
 
+#boton{
+    background-color: #002B4E;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    font-size: 16px;
+    border-radius: 3px;
+    cursor: pointer;
+}
 
+#boton:hover{
+    background-color: #0562ad;
+}
+
+#boton:active{
+    background-color: #4ba7f3;
+    color: #1C1D1B;
+}
 li{
     display: inline-block;
     margin-bottom: 0;
@@ -415,6 +434,3 @@ main{
 
 }   
 
-img{
-    display: none;
-}
