@@ -1,6 +1,40 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+footer {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+   
+    background-color:#5386E4 ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #201F1F;
+    
+    bottom: 0;
+    width: 100%;
+    padding: 0.2em 0;
+}
+    
 
+  
+  .footer-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .footer-logo img {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px;
+  }
+  
+  .footer-info p {
+    margin-bottom: 5px;
+  }
+  
 *{
     box-sizing: border-box;
     margin: 0;
@@ -14,7 +48,7 @@ body{
     position: relative;
     min-height: 100vh;
     min-width: 100vh;
-    padding-bottom: 2em;
+    
 }
 
 header{
@@ -45,17 +79,6 @@ a:hover{
     color: aliceblue;
 }
 
-footer{
-    background-color:#5386E4 ;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    color: #201F1F;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    padding: 0.2em 0;
-}
 
 h1{
     padding: 2%;
@@ -123,7 +146,7 @@ form{
     position: relative;
     min-height: 100vh;
     min-width: 100vh;
-    padding-bottom: 2em;
+   
     
 }
 .ul li{
@@ -211,18 +234,7 @@ margin-left: 3%;
     justify-content: center;
 }
 
-footer{
 
-    background-color:#5386E4 ;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    color: #201F1F;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    padding: 0.2em 0;
-}
 
 
 .h1P{
